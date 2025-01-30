@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "936903715546",
+    "firebase_url": "https://tareachat290125-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tareachat290125",
+    "storage_bucket": "tareachat290125.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936903715546:android:d99caae971a07b136413e3",
+        "android_client_info": {
+          "package_name": "com.example.tareachat290125"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936903715546-iqvoclaps286fce84kigqtlfot3vr8t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tareachat290125",
+            "certificate_hash": "41d8ade232f5556bf891d438d90b1f807d6c7a5e"
+          }
+        },
+        {
+          "client_id": "936903715546-h7dttdsjbtjsd08shjot0tvgc961e3pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0fuU8t0X6cGOV9noa7x3_8RtiBgdC5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936903715546-h7dttdsjbtjsd08shjot0tvgc961e3pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936903715546:android:82dd31019a6251086413e3",
+        "android_client_info": {
+          "package_name": "org.iesalandalus.tareachat290125"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936903715546-o1iis489q293ektjg2ib4na50kpr9keq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.iesalandalus.tareachat290125",
+            "certificate_hash": "41d8ade232f5556bf891d438d90b1f807d6c7a5e"
+          }
+        },
+        {
+          "client_id": "936903715546-h7dttdsjbtjsd08shjot0tvgc961e3pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0fuU8t0X6cGOV9noa7x3_8RtiBgdC5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936903715546-h7dttdsjbtjsd08shjot0tvgc961e3pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
