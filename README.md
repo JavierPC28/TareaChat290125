@@ -39,8 +39,5 @@ Esta es una aplicación de chat en tiempo real desarrollada en **Kotlin** para A
 3. Los mensajes se mostrarán en un **RecyclerView**, diferenciando los del usuario logueado de los demás.
 4. El usuario puede eliminar sus propios mensajes o borrar todos sus mensajes desde el menú lateral.
 
-## Capturas de Pantalla
-*(Pendiente de agregar imágenes de la interfaz de usuario)*
-
 ## Autor
 Desarrollado por **Javier Palmero Clares**.
