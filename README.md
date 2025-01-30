@@ -23,7 +23,7 @@ Esta es una aplicación de chat en tiempo real desarrollada en **Kotlin** para A
 ## Instalación y Configuración
 1. **Clonar el repositorio**
    ```sh
-   git clone https://github.com/JavierPC28/chat-firebase-android.git
+   git clone https://github.com/JavierPC28/TareaChat290125.git
    ```
 2. **Abrir el proyecto en Android Studio**
 3. **Configurar Firebase**
